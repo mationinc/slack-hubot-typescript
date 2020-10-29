@@ -37,4 +37,3 @@ $ heroku logs --tail
 
 GitHubのSecretsに`HEROKU_API_KEY`をセットすれば、
 masterにpushで自動デプロイされる。
-
